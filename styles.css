@@ -39,7 +39,7 @@ main {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    padding: 4rem 0 4rem 14vw;
+    padding: 4rem 0 4rem 10vw;
 }
 
 .mobile-hero, .responsive-hero, .desktop-hero {
@@ -55,7 +55,7 @@ main {
     flex-direction: column;
     justify-content: space-between;
     width: 100%; height: 60%;
-    margin-top: 20vh;
+    margin-top: 18vh;
 }
 
 .heading {
